@@ -1,5 +1,11 @@
 # simple_prefix_verbs_german
 
+The following document lists all modules & files used for the project.
+
+The corpus data is in MorphSem_L2-Corpus.
+
+PART 1 - QUANTITATIVE ANALYSIS
+
 cleardata.csv > file originally used for the extraction of all prefix verbs
 
 verbs.csv > noisy data, initial list of all prefix verbs
