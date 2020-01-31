@@ -11,6 +11,10 @@ cleardata.csv > file originally used for the extraction of all prefix verbs
 verbs.csv > noisy data, initial list of all prefix verbs
 regex_for_verbs.py > regular expression for the sorting out of the verbs relevant to the project
 
+The following two lists have been modified manually:
+
+simple_verbs_right_wrong.csv > list with the simple verbs in question, including correct / wrong occurences
+prefix_verbs_right_wrong.csv > list with the prefix verbs in question, including correct / wrong occurences
 
 PART 2 - QUALITATIVE ANALYSIS
 
