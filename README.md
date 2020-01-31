@@ -11,6 +11,8 @@ cleardata.csv > file originally used for the extraction of all prefix verbs
 verbs.csv > noisy data, initial list of all prefix verbs
 regex_for_verbs.py > regular expression for the sorting out of the verbs relevant to the project
 
+only_the_most_significant.csv > list containing simple and prefix verbs (manually modified)
+
 preprocessing_simple.py > module for the extraction of simple verbs occurences
 	Input: Corpus, only_the_most_significant.csv
 	Output: simple_verbs_right_wrong.csv
