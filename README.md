@@ -11,6 +11,7 @@ preprocessing.py > initial preprocessing and extraction of the layers needed
 	Output: cleardata.csv, corpus_sentences_lemma.txt
 
 cleardata.csv > file originally used for the extraction of all prefix verbs
+corpus_sentences_lemma.txt > lemmatized sentences in the corpus (used in order to count occurences later)
 
 prefix_rough.py > module for the spotting of all prefix verbs in the corpus
 	Input: cleardata.csv
@@ -20,6 +21,8 @@ verbs.csv > noisy data, initial list of all prefix verbs
 regex_for_verbs.py > regular expression for the sorting out of the verbs relevant to the project
 
 prefixed_verbs.txt > manually processed prefix verb list
+
+count_occurences.py > module used for the extraction of the most frequent verbs
 
 only_the_most_significant.csv > list containing simple and prefix verbs (manually modified)
 
