@@ -19,6 +19,8 @@ prefix_rough.py > module for the spotting of all prefix verbs in the corpus
 verbs.csv > noisy data, initial list of all prefix verbs
 regex_for_verbs.py > regular expression for the sorting out of the verbs relevant to the project
 
+prefixed_verbs.txt > manually processed prefix verb list
+
 only_the_most_significant.csv > list containing simple and prefix verbs (manually modified)
 
 preprocessing_simple.py > module for the extraction of simple verbs occurences
@@ -33,6 +35,7 @@ The following two lists have been modified manually:
 
 simple_verbs_right_wrong.csv > list with the simple verbs in question, including correct / wrong occurences
 prefix_verbs_right_wrong.csv > list with the prefix verbs in question, including correct / wrong occurences
+
 
 PART 2 - QUALITATIVE ANALYSIS
 
