@@ -8,6 +8,10 @@ PART 1 - QUANTITATIVE ANALYSIS
 
 cleardata.csv > file originally used for the extraction of all prefix verbs
 
+prefix_rough.py > module for the spotting of all prefix verbs in the corpus
+	Input: cleardata.csv
+	Output: verbs.csv
+
 verbs.csv > noisy data, initial list of all prefix verbs
 regex_for_verbs.py > regular expression for the sorting out of the verbs relevant to the project
 
