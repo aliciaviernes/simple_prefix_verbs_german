@@ -6,6 +6,10 @@ The corpus data is in MorphSem_L2-Corpus.
 
 PART 1 - QUANTITATIVE ANALYSIS
 
+preprocessing.py > initial preprocessing and extraction of the layers needed
+	Input: Corpus
+	Output: cleardata.csv, corpus_sentences_lemma.txt
+
 cleardata.csv > file originally used for the extraction of all prefix verbs
 
 prefix_rough.py > module for the spotting of all prefix verbs in the corpus
