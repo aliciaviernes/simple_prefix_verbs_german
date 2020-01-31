@@ -15,6 +15,10 @@ preprocessing_simple.py > module for the extraction of simple verbs occurences
 	Input: Corpus, only_the_most_significant.csv
 	Output: simple_verbs_right_wrong.csv
 
+preprocessing_prefix.py > module for the extraction of prefix verbs occurences
+	Input: prefixed_verbs_right_wrong.csv (manually created, not included), cleardata.csv
+	Output: prefix_verbs_right_wrong.csv
+
 The following two lists have been modified manually:
 
 simple_verbs_right_wrong.csv > list with the simple verbs in question, including correct / wrong occurences
