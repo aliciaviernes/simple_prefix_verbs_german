@@ -11,6 +11,10 @@ cleardata.csv > file originally used for the extraction of all prefix verbs
 verbs.csv > noisy data, initial list of all prefix verbs
 regex_for_verbs.py > regular expression for the sorting out of the verbs relevant to the project
 
+preprocessing_simple.py > module for the extraction of simple verbs occurences
+	Input: Corpus, only_the_most_significant.csv
+	Output: simple_verbs_right_wrong.csv
+
 The following two lists have been modified manually:
 
 simple_verbs_right_wrong.csv > list with the simple verbs in question, including correct / wrong occurences
