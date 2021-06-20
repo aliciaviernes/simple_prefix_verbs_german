@@ -4,7 +4,7 @@ The following document lists all modules & files used for the project.
 
 The corpus data is in MorphSem_L2-Corpus.
 
-PART 1 - QUANTITATIVE ANALYSIS
+## PART 1 - QUANTITATIVE ANALYSIS
 
 preprocessing.py > initial preprocessing and extraction of the layers needed
 	Input: Corpus
@@ -40,7 +40,7 @@ simple_verbs_right_wrong.csv > list with the simple verbs in question, including
 prefix_verbs_right_wrong.csv > list with the prefix verbs in question, including correct / wrong occurences
 
 
-PART 2 - QUALITATIVE ANALYSIS
+## PART 2 - QUALITATIVE ANALYSIS
 
 For this part, sentences containing prefix verbs in a wrong context (& their correct counterparts) are needed.
 
